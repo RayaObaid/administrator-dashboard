@@ -26,8 +26,7 @@ This is a demonstration of a role-based task management system developed using *
 
 ## 📽 Recording of the Project
 
-<video src="https://raw.githubusercontent.com/RayaObaid/administrator-dashboard/main/taskmanagerr.mp4" controls width="700">
-</video>
+[▶️ Click here to view the demo video](https://raw.githubusercontent.com/RayaObaid/administrator-dashboard/main/taskmanagerr.mp4)
 
 ## 📝 Notes
 - If you’re interested in the code or collaboration, feel free to contact me
