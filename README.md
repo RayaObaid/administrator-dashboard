@@ -23,6 +23,6 @@ This is a demonstration of a role-based task management system developed using *
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
 - **Backend**: PHP (CodeIgniter)
 - **Database**: MySQL (via XAMPP)
-- 
+  
 ## 📝 Notes
 - If you’re interested in the code or collaboration, feel free to contact me
