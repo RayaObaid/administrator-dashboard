@@ -25,7 +25,7 @@ This is a demonstration of a role-based task management system developed using *
 - **Database**: MySQL (via XAMPP)
 
 ## 📽 Recording of the Project
-You can find the video inside the `recording/` folder.
+<video src="C:\Users\DELL\Downloads\taskmanager (online-video-cutter.com).mp4" controls width="700">
 
 ## 📝 Notes
 - If you’re interested in the code or collaboration, feel free to contact me
